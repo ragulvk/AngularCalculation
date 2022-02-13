@@ -216,6 +216,7 @@ Publish the website in the given URL.
 ~~~
 ## OUTPUT:
 ### Home Page:
-![](rag1.jpeg)
+![](rag1.jpg)
 
 ## Result:
+To design a dynamic website to perform mathematical calculations using Angular Framwork is successfully created.
