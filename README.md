@@ -216,6 +216,6 @@ Publish the website in the given URL.
 ~~~
 ## OUTPUT:
 ### Home Page:
-![](rag1.png)
+![](rag1.jpeg)
 
 ## Result:
