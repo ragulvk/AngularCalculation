@@ -210,7 +210,7 @@ Publish the website in the given URL.
         });
 
     </script>
-    <footer> <p class="by"><B>Developed by : v.thamaraiselvan(21001052)</B></p></footer>
+    <footer> <p class="by"><B>Developed by :ragul.vk(21003065)</B></p></footer>
 </body>
 </html>
 ~~~
